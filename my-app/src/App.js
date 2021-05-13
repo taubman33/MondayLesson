@@ -9,20 +9,7 @@ import Footer from './components/Footer.jsx'
 function App() {
   return (
     <div className="App">
-      
-        <div className ="App-Header">
-          <Header />
-        </div>
-
-        <div className ="App-Main">
-          <Main/>
-        </div>
-
-
-        <div className ="App-Footer">
-          <Footer/>
-        </div>
-
+    app
 
     </div>
   );
